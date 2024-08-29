@@ -4,7 +4,9 @@
 
 -Estou estudando na Alura;
 
--Estou estudando lingua inglesa e espanhola.
+-Estou estudando lingua inglesa e espanhola;
+
+-Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos.
 
 ## Você pode entrar em contato comigo 📫
 
