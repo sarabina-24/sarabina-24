@@ -3,6 +3,7 @@
 *Meu nome é Sabrina*
 
 -Estou estudando na Alura;
+
 -Estou estudando lingua inglesa e espanhola.
 
 ## Você pode entrar em contato comigo 📫
