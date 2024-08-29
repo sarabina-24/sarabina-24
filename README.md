@@ -2,7 +2,7 @@
 
 *Meu nome é Sabrina*
 
--Estou estudando na Alura;
+-Estou estudando na [Alura](https://www.alura.com.br)
 
 -Estou estudando lingua inglesa e espanhola;
 
@@ -11,9 +11,7 @@
 ## Você pode entrar em contato comigo 📫
 
 00001110479396sp@al.educacao.sp.gov.br
-
-
- 
+![](https://media1.tenor.com/m/hIBNUlJnTW4AAAAC/spongebob-squidward.gif)
 
 
 
