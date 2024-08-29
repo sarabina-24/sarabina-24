@@ -1,6 +1,11 @@
 ## 🦋 Bem vindo ao meu perfil 🦋
 
-**sabrina£³
+*Meu nome é Sabrina*
+
+-Estou estudando na Alura;
+-Estou estudando lingua inglesa e espanhola.
+
+
 
 
  
